@@ -1,0 +1,304 @@
+2024-04-03 14:37:22 - Check-in start time：1712151442919
+
+2024-04-03 14:37:23 - CheckinDesk 0 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:23 - The desk 0 is occupied now.
+2024-04-03 14:37:23 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:23 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:24 - CheckinDesk 0 is available now.
+
+2024-04-03 14:37:24 - CheckinDesk 2 is available now.
+
+2024-04-03 14:37:24 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:25 - Current time：1712151445781
+
+2024-04-03 14:37:25 - CheckinDesk 0 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:25 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:25 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:26 - CheckinDesk 0 is available now.
+
+2024-04-03 14:37:26 - CheckinDesk 2 is available now.
+
+2024-04-03 14:37:26 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:27 - Current time：1712151447788
+
+2024-04-03 14:37:27 - The desk 0 is occupied now.
+2024-04-03 14:37:27 - CheckinDesk 0 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:27 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:27 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:32 - Check-in start time：1712151452457
+
+2024-04-03 14:37:32 - CheckinDesk 0 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:32 - The desk 0 is occupied now.
+2024-04-03 14:37:32 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:32 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:33 - CheckinDesk 2 is available now.
+
+2024-04-03 14:37:33 - CheckinDesk 0 is available now.
+
+2024-04-03 14:37:33 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:34 - Current time：1712151454921
+
+2024-04-03 14:37:34 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:34 - CheckinDesk 0 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:34 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:36 - Check-in start time：1712151456738
+
+2024-04-03 14:37:37 - CheckinDesk 0 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:37 - The desk 0 is occupied now.
+2024-04-03 14:37:37 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:37 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:38 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:38 - CheckinDesk 0 is available now.
+
+2024-04-03 14:37:38 - CheckinDesk 2 is available now.
+
+2024-04-03 14:37:40 - Check-in start time：1712151460335
+
+2024-04-03 14:37:40 - CheckinDesk 0 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:40 - The desk 0 is occupied now.
+2024-04-03 14:37:40 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:40 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:41 - CheckinDesk 2 is available now.
+
+2024-04-03 14:37:41 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:41 - CheckinDesk 0 is available now.
+
+2024-04-03 14:37:43 - Check-in start time：1712151463737
+
+2024-04-03 14:37:44 - CheckinDesk 0 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:44 - The desk 0 is occupied now.
+2024-04-03 14:37:44 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:44 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:45 - CheckinDesk 2 is available now.
+
+2024-04-03 14:37:45 - CheckinDesk 0 is available now.
+
+2024-04-03 14:37:45 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:47 - Check-in start time：1712151467082
+
+2024-04-03 14:37:47 - CheckinDesk 0 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:47 - The desk 0 is occupied now.
+2024-04-03 14:37:47 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:47 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:47 - Wmuygti o is dropping off 1 bag of23.9 kg, size of 4 * 15 * 10. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:37:47 - Pink m is dropping off 1 bag of29.7 kg, size of 8 * 4 * 12. Sorry. Your luggage weight is over the limit. Please contact the staff!
+
+2024-04-03 14:37:47 - Apzgog oyqu is dropping off 1 bag of16.2 kg, size of 11 * 4 * 5. Checks in successfully! You need to pay 60.0 dollars for the luggage weight!
+
+2024-04-03 14:37:48 - CheckinDesk 0 is available now.
+
+2024-04-03 14:37:48 - CheckinDesk 2 is available now.
+
+2024-04-03 14:37:48 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:49 - Current time：1712151469539
+
+2024-04-03 14:37:49 - CheckinDesk 0 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:49 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:49 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:49 - T qpnz is dropping off 1 bag of19.1 kg, size of 11 * 6 * 8. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:37:49 - N j is dropping off 1 bag of18.6 kg, size of 8 * 7 * 10. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:37:49 - Wdh psrnsq is dropping off 1 bag of25.2 kg, size of 9 * 15 * 6. Sorry. Your luggage weight is over the limit. Please contact the staff!
+
+2024-04-03 14:37:50 - CheckinDesk 2 is available now.
+
+2024-04-03 14:37:50 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:50 - CheckinDesk 0 is available now.
+
+2024-04-03 14:37:51 - Current time：1712151471545
+
+2024-04-03 14:37:51 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:51 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:51 - T fstibpked is dropping off 1 bag of35.0 kg, size of 3 * 3 * 6. Sorry. Your luggage weight is over the limit. Please contact the staff!
+
+2024-04-03 14:37:51 - F eu is dropping off 1 bag of34.1 kg, size of 8 * 14 * 10. Sorry. Your luggage weight is over the limit. Please contact the staff!
+
+2024-04-03 14:37:52 - CheckinDesk 2 is available now.
+
+2024-04-03 14:37:52 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:53 - Current time：1712151473551
+
+2024-04-03 14:37:53 - The desk 1 is occupied now.
+2024-04-03 14:37:53 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:53 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:53 - Ij z is dropping off 1 bag of24.2 kg, size of 14 * 12 * 11. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:37:53 - Db hifuj is dropping off 1 bag of29.7 kg, size of 5 * 14 * 7. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:37:54 - Current time：1712151474556
+
+2024-04-03 14:37:54 - The desk 1 is occupied now.
+2024-04-03 14:37:54 - The desk 2 is occupied now.
+2024-04-03 14:37:54 - CheckinDesk 2 is available now.
+
+2024-04-03 14:37:54 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:55 - Current time：1712151475563
+
+2024-04-03 14:37:55 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:55 - CheckinDesk 2 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:55 - Enlx pblc is dropping off 1 bag of29.2 kg, size of 6 * 4 * 10. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:37:55 - Uu drlgnksa is dropping off 1 bag of8.9 kg, size of 14 * 9 * 8. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:37:56 - Current time：1712151476568
+
+2024-04-03 14:37:56 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:56 - CheckinDesk 2 is available now.
+
+2024-04-03 14:37:56 - The desk 1 is occupied now.
+2024-04-03 14:37:56 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:56 - T is dropping off 1 bag of27.8 kg, size of 13 * 9 * 11. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:37:57 - Current time：1712151477571
+
+2024-04-03 14:37:57 - The desk 1 is occupied now.
+2024-04-03 14:37:57 - CheckinDesk 1 is available now.
+
+2024-04-03 14:37:58 - Current time：1712151478578
+
+2024-04-03 14:37:58 - The desk 1 is occupied now.
+2024-04-03 14:37:58 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:37:58 - Aa x is dropping off 1 bag of5.8 kg, size of 13 * 5 * 3. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:37:58 - Implement delete
+2024-04-03 14:37:59 - Current time：1712151479580
+
+2024-04-03 14:37:59 - The desk 1 is occupied now.
+2024-04-03 14:37:59 - CheckinDesk 1 is available now.
+
+2024-04-03 14:38:00 - Current time：1712151480583
+
+2024-04-03 14:38:00 - The desk 1 is occupied now.
+2024-04-03 14:38:00 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:38:00 - Ew ihcvbqh is dropping off 1 bag of32.6 kg, size of 10 * 4 * 15. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:38:00 - Implement delete
+2024-04-03 14:38:01 - Current time：1712151481589
+
+2024-04-03 14:38:01 - The desk 1 is occupied now.
+2024-04-03 14:38:01 - CheckinDesk 1 is available now.
+
+2024-04-03 14:38:02 - Current time：1712151482595
+
+2024-04-03 14:38:02 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:38:02 - The desk 1 is occupied now.
+2024-04-03 14:38:02 - Pl qcf is dropping off 1 bag of21.7 kg, size of 9 * 5 * 7. Checks in successfully! You need to pay 79.0 dollars for the luggage weight!
+
+2024-04-03 14:38:03 - Current time：1712151483599
+
+2024-04-03 14:38:03 - The desk 1 is occupied now.
+2024-04-03 14:38:03 - CheckinDesk 1 is available now.
+
+2024-04-03 14:38:04 - Current time：1712151484605
+
+2024-04-03 14:38:04 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:38:04 - Aop rbaj is dropping off 1 bag of30.0 kg, size of 8 * 4 * 11. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:38:05 - Current time：1712151485610
+
+2024-04-03 14:38:05 - CheckinDesk 1 is available now.
+
+2024-04-03 14:38:05 - The desk 1 is occupied now.
+2024-04-03 14:38:05 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:38:05 - Dear Zv vtprfs. Sorry. There is not any information about the flight you searched. Maybe you have missed the flight.
+
+2024-04-03 14:38:06 - Current time：1712151486616
+
+2024-04-03 14:38:06 - The desk 1 is occupied now.
+2024-04-03 14:38:06 - CheckinDesk 1 is available now.
+
+2024-04-03 14:38:07 - Current time：1712151487621
+
+2024-04-03 14:38:07 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:38:07 - Sm m is dropping off 1 bag of6.7 kg, size of 14 * 3 * 13. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:38:08 - Current time：1712151488627
+
+2024-04-03 14:38:08 - The desk 1 is occupied now.
+2024-04-03 14:38:08 - CheckinDesk 1 is available now.
+
+2024-04-03 14:38:09 - Current time：1712151489633
+
+2024-04-03 14:38:09 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:38:09 - Eqvbs d is dropping off 1 bag of26.0 kg, size of 9 * 14 * 8. Your luggage size is over the limit. Please contact the staff!
+
+2024-04-03 14:38:10 - Current time：1712151490635
+
+2024-04-03 14:38:10 - The desk 1 is occupied now.
+2024-04-03 14:38:10 - CheckinDesk 1 is available now.
+
+2024-04-03 14:38:11 - Current time：1712151491642
+
+2024-04-03 14:38:11 - The desk 1 is occupied now.
+2024-04-03 14:38:11 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:38:11 - Dear R. Sorry. There is not any information about the flight you searched. Maybe you have missed the flight.
+
+2024-04-03 14:38:12 - Current time：1712151492646
+
+2024-04-03 14:38:12 - The desk 1 is occupied now.
+2024-04-03 14:38:12 - CheckinDesk 1 is available now.
+
+2024-04-03 14:38:13 - Current time：1712151493651
+
+2024-04-03 14:38:13 - CheckinDesk 1 is checking in for boarding, please be patient or search for available CheckinDesk.
+
+2024-04-03 14:38:13 - Shi r is dropping off 1 bag of26.9 kg, size of 9 * 9 * 5. Your luggage size is over the limit. Please contact the staff!
+
